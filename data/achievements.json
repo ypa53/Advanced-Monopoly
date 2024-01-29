@@ -1,0 +1,62 @@
+[
+    {
+        "API_Name": "openAchievements",
+        "Name": "Lifting the Veil",
+        "Description": "Open the Achievements Menu",
+        "Completed": true
+    },
+    {
+        "API_Name": "finishRound",
+        "Name": "The First Step",
+        "Description": "Finish one round of the game",
+        "Completed": false
+    },
+    {
+        "API_Name": "buyProperty",
+        "Name": "Claiming Your Slice",
+        "Description": "Buy your first property",
+        "Completed": false
+    },
+    {
+        "API_Name": "buildHouse",
+        "Name": "Home Sweet Home",
+        "Description": "Build your first house on a property",
+        "Completed": false
+    },
+    {
+        "API_Name": "getMonopoly",
+        "Name": "Titan of Industry",
+        "Description": "Get a Monopoly",
+        "Completed": false
+    },
+    {
+        "API_Name": "jailBird",
+        "Name": "Jailbird",
+        "Description": "Go to jail in a game",
+        "Completed": false
+    },
+    {
+        "API_Name": "makeTrade",
+        "Name": "Negotiation Ninja",
+        "Description": "Make a Trade",
+        "Completed": false
+    },
+    {
+        "API_Name": "finishGame",
+        "Name": "Crossing the Finish Line",
+        "Description": "Finish a full game of Monopoly",
+        "Completed": false
+    },
+    {
+        "API_Name": "loseGame",
+        "Name": "I lost",
+        "Description": "Lose The Game",
+        "Completed": false
+    },
+    {
+        "API_Name": "winGame",
+        "Name": "Winner Winner Chicken Dinner",
+        "Description": "Win a game of Monopoly",
+        "Completed": false
+    }
+]
